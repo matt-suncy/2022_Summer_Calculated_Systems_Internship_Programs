@@ -4,7 +4,7 @@
 This project is a trend detection program that pulls messages from a stream and analyzes the messages.
 	
 ## Technologies
-Project is created with: Google Cloud.
+Project is created with: Google Cloud Pub/Sub, matplotlib.
 	
 ## Setup
 To run this project, use a Jupyter Notebook connected to a Google Cloud Pub/Sub service.
